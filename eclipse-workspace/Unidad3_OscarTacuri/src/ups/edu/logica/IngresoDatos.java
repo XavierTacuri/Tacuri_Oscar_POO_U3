@@ -75,7 +75,7 @@ public class IngresoDatos {
 				
 			}catch (ControlExcepciones e) {
 	            System.out.println(e.getMessage()); // Mensaje de la excepcion 
-	           scanner.nextLine(); 		// limpiar el buffer
+	            		// limpiar el buffer
 	        }
 		}
 }
